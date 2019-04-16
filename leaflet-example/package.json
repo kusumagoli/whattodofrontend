@@ -1,0 +1,52 @@
+{
+  "name": "leaflet-example",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "@material-ui/icons": "^3.0.2",
+    "@material-ui/styles": "^3.0.0-alpha.10",
+    "bootstrap": "^4.3.1",
+    "geolib": "^2.0.24",
+    "leaflet": "^1.4.0",
+    "mdbreact": "^4.11.1",
+    "react": "^16.8.3",
+    "react-bootstrap": "^1.0.0-beta.6",
+    "react-datepicker": "^2.3.0",
+    "react-dom": "^16.8.3",
+    "react-ionicons": "^3.0.1",
+    "react-leaflet": "^2.2.1",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.5",
+    "reactstrap": "^7.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "description": "This is an example app to show the usage of leaflet maps.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnits-map-projects/leaflet-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnits-map-projects/leaflet-example/issues"
+  },
+  "homepage": "https://github.com/gnits-map-projects/leaflet-example#readme"
+}
